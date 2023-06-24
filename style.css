@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  border: 1px solid #ccc;
+}
+
+.menu {
+  width: 50%;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+.content {
+  width: 50%;
+  padding: 20px;
+}
+
+#logo {
+  display: block;
+  margin-bottom: 20px;
+  width: 150px;
+  height: 150px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
