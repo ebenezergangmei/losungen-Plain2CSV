@@ -2,5 +2,5 @@
 Convert Moravian Daily Texts (Watchwords) from Plain Format to CSV file, Import it to Google Calendar.
 
 Notes on How to:
-1. your Plain Texts Should simply be serated by "#" symbol
+1. Your daily Plain Texts of "Moravian Daily Texts" Should be seperated by "#" symbol
 2. Follow the screen when you open index.html in browser
